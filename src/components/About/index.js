@@ -2,6 +2,7 @@ import React from 'react';
 import profilePic from "../../assets/profile-pic.jpg";
 
 
+
 function About() {
     return (
 
