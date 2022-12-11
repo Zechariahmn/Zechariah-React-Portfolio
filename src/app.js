@@ -11,7 +11,7 @@ function App() {
 
     //Set state default to Home
     const [currentPage, handlePageChange] = useState("Home");
-    
+
     //Render page function to switch statement
     const renderPage = () => {
       switch (currentPage) {
@@ -24,3 +24,24 @@ function App() {
         default: return <Home />;
       }
     };
+
+    return (
+        <React.Fragment>
+
+        <div>
+            <main>
+                <Nav
+                    currentPage={currentPage}
+                    handlePageChange={handlePageChange}
+                />
+                <div>{renderPage(currentPage)}</div>
+            </main>
+        </div>
+        
+        <Footer></Footer>
+        </React.Fragment>
+        
+    );
+    }
+    
+    export default App;
