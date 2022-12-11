@@ -162,30 +162,36 @@ textarea {
   color: #fff;
   margin-bottom: 12px;
 }
+
 #about p {
   line-height: 30px;
   color: chartreuse;
 }
+
 #about .profilepic {
   position: relative;
   width: 120px;
   height: 120px;
   border-radius: 100%;
 }
+
 #about .contact-details { width: 41.66667%; }
 #about .download {
   width: 58.33333%;
   padding-top: 6px;
 }
+
 #about .main-col { padding-right: 5%; }
 #about .download .button {
   margin-top: 6px;
   background: #444;
 }
+
 #about .download .button:hover {
   background: #fff;
   color: #2B2B2B;
 }
+
 #about .download .button i {
   margin-right: 15px;
   font-size: 20px;
