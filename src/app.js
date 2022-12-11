@@ -7,3 +7,20 @@ import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
 
+function App() {
+
+    //Set state default to Home
+    const [currentPage, handlePageChange] = useState("Home");
+    
+    //Render page function to switch statement
+    const renderPage = () => {
+      switch (currentPage) {
+        case "About":
+          return <About />;
+        case "Contact":
+          return <Contact />
+        case "Portfolio":
+          return <Portfolio />
+        default: return <Home />;
+      }
+    };
