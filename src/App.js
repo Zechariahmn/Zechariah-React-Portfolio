@@ -4,7 +4,7 @@ import Nav from './components/Nav';
 import Home from './components/Home';
 import About from './components/About';
 import Contact from './components/Contact';
-import Project from './components/Project';
+import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
 
 
@@ -20,8 +20,8 @@ function App() {
         return <About />;
       case "Contact":
         return <Contact />
-      case "Project":
-        return <Project />
+      case "Portfolio":
+        return <Portfolio />
       default: return <Home />;
     }
   };

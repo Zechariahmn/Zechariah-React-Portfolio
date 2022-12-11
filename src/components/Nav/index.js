@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Nav(props) {
-    const tabs = ['Home', 'About', 'Project', 'Contact']
+    const tabs = ['Home', 'About', 'Portfolio', 'Contact']
 
     return (
 

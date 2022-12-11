@@ -37,29 +37,31 @@ function Project() {
 
     return (
 
-         <><div>
-            {applications.map(project => (
+        //<><div>
+            //{applications.map(project => (
 
-                <Card style={{ width: '18rem' }}>
+                //<Card style={{ width: '18rem' }}>
 
-                    <Card.Img variant="top" style={project.picture} />
+                    //<Card.Img variant="top" style={project.picture} />
 
-                    <Card.Body>
+                   // <Card.Body>
 
-                        <Card.Title>{project.title} </Card.Title>
+                        //<Card.Title>{project.title} </Card.Title>
 
-                        <Card.Text>
-                            {project.languages}
-                        </Card.Text>
+                        //<Card.Text>
+                           // {project.languages}
+                       // </Card.Text>
 
-                        <Button href={project.appLink} variant="primary">Go to Application</Button>
+                       // <Button href={project.appLink} variant="primary">Go to Application</Button>
 
-                    </Card.Body>
+                   // </Card.Body>
 
-                </Card>
-            ))}
+               // </Card>
+           // ))}
             
-        </div><div className="project-container flex-row space-evenly">
+        //</div>
+        
+        <div className="project-container flex-row space-evenly">
 
                 {applications.map(project => (
 
@@ -80,7 +82,7 @@ function Project() {
 
                 ))}
 
-            </div></>
+            </div>
     )
 }
 
