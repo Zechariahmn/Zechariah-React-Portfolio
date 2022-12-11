@@ -1,4 +1,4 @@
-import './App.css';
+import './app.css';
 import BucketList from './components/BucketList';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div className="bucket-app">
       <BucketList />
     </div>
-    
+
   );
 }
 
