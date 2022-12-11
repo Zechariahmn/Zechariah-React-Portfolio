@@ -7,6 +7,7 @@ import techblogImg from '../../assets/images/tech-blog.PNG';
 
 
 function Project() {
+    
     const applications = [
         {
             title: 'Higher-Lower',
@@ -38,17 +39,26 @@ function Project() {
 
          <><div>
             {applications.map(project => (
+
                 <Card style={{ width: '18rem' }}>
+
                     <Card.Img variant="top" style={project.picture} />
+
                     <Card.Body>
+
                         <Card.Title>{project.title} </Card.Title>
+
                         <Card.Text>
                             {project.languages}
                         </Card.Text>
+
                         <Button href={project.appLink} variant="primary">Go to Application</Button>
+
                     </Card.Body>
+
                 </Card>
             ))}
+            
         </div><div className="project-container flex-row space-evenly">
 
                 {applications.map(project => (

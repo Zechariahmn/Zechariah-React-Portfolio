@@ -145,6 +145,7 @@ textarea {
   padding: 5px;
 }
 
+/*-----About page CSS----*/
 #about {
   background: #2B2B2B;
   padding-top: 96px;
@@ -304,6 +305,8 @@ textarea {
   margin-bottom: 50px;
   cursor: pointer;
 }
+
+
 /*portfolio style*/
 a {
   color: var(--secondary);
@@ -395,6 +398,7 @@ a {
 .titles {
   text-align: center;
   font: 22px/30px 'opensans-bold', sans-serif;
+  color: chartreuse;
 }
 
 header {
