@@ -26,6 +26,9 @@ To install necessary dependencies, run the following command:
 
 The user must clone down the repo to get the necessary folders, files and dependencies. The user can then run the ```npm install``` command to install the necessary dependencies. the user can then run the ```npm start``` command to start the application. Once the application is active on the users localhost server they can then navigate through the application using the navbar to switch between pages.
 
+## URL
+https://zechariahmn.github.io/
+
 ## Available Scripts
 
 In the project directory, you can run:
