@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # react-portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  ## Description
+  An application that displays an 'about me', 'home', 'contact' and 'portflio' with my information
+
+## Table Of Contents
+<li><a href="#installation">Installation</a></li>
+<li><a href="#usage">Usage</a></li>
+<li><a href="#license">License</a></li>
+<li><a href="#contributing">Contributing</a></li>
+<li><a href="#tests">Tests</a></li>
+<li><a href="#questions">Questions</a></li>
+<li><a href="#Available scripts">Available scripts</a></li>
+
+## Installation
+To install necessary dependencies, run the following command:
+```npm install```
+
+## Usage
+The user must clone down the repo to get the necessary folders, files and dependencies. The user can then run the ```npm install``` command to install the necessary dependencies. the user can then run the ```npm start``` command to start the application. Once the application is active on the users localhost server they can then navigate through the application using the navbar to switch between pages.
 
 ## Available Scripts
 
@@ -39,36 +57,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## License
+This project is licensed under the MIT https://opensource.org/licenses/MIT
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
+N/A
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Tests
+```npm test```
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-<<<<<<< HEAD
-=======
-
->>>>>>> d07ab0d873ccd1d315314fbd32e52a583705107a
+## Questions
+If you have any feedback on what we can add to our application or any issues that you have run into, please feel free to reach out at my github https://github.com/zechariahmn or by email at zechariahnaitram20@gmail.com.
