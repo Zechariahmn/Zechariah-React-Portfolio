@@ -1,63 +1,36 @@
 import React from 'react';
 import { Card, Button } from 'react-bootstrap';
 
-import  from '../../assets/images/';
-import  from '../../assets/images/';
-import  from '../../assets/images/';
-import  from '../../assets/images/';
-import  from '../../assets/images/';
-import  from '../../assets/images/';
-import  from '../../assets/images/'
+import higherlowerImg from '../../assets/images/higher-lower.PNG';
+import notetakerImg from '../../assets/images/note-taker.PNG';
+import techblogImg from '../../assets/images/tech-blog.PNG';
+
 
 function Project() {
     const applications = [
         {
-            title: '',
-            appLink: '',
-            repoLink: '',
-            languages: '',
-            picture: i
+            title: 'Higher-Lower',
+            appLink: 'https://styngerbee.github.io/higherlower/',
+            repoLink: 'https://github.com/StyngerBee/higherlower',
+            languages: 'HTML, CSS, JAVASCRIPT',
+            picture: higherlowerImg
         },
 
         {
-            title: '',
-            appLink: '',
-            repoLink: '',
-            languages: '',
-            picture: i
+            title: 'Note-Taker',
+            appLink: 'https://zechariah-note-app.herokuapp.com/',
+            repoLink: 'https://github.com/Zechariahmn/Note-Taker',
+            languages: 'HTML, CSS, JAVASCRIPT',
+            picture: notetakerImg
         },
 
         {
-            title: '',
-            appLink: '',
-            repoLink: '',
-            languages: '',
-            picture: i
+            title: 'Tech-Blog',
+            appLink: 'https://zechariah-blog-spot.herokuapp.com/',
+            repoLink: 'https://github.com/Zechariahmn/Tech-Blog',
+            languages: 'CSS, JAVASCRIPT, HANDLEBARS',
+            picture: techblogImg
         },
-
-        {
-            title: '',
-            appLink: '',
-            repoLink: '',
-            languages: '',
-            picture: i
-        },
-
-        {
-            title: 'i',
-            appLink: 'i',
-            repoLink: 'i',
-            languages: 'i',
-            picture: i
-        },
-
-        {
-            title: 'i',
-            appLink: 'i',
-            repoLink: 'i',
-            languages: 'i',
-            picture: i
-        }
 
     ];
 
@@ -83,7 +56,7 @@ function Project() {
                 </article>
 
             ))}
-            
+
         </div>
     )
 }

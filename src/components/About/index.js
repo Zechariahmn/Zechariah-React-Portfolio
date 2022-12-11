@@ -1,6 +1,6 @@
 import React from 'react';
 import profilePic from "../../assets/profile-pic.jpg";
-import myResume from "../../assets/";
+
 
 function About() {
     return (
@@ -10,7 +10,7 @@ function About() {
             <div classname="row">
 
                 <div className="three columns">
-                    <img className="profilepic" src={profilePic} alt="" />
+                    <img className="profilepic" src={profilePic} alt="Zechariah Naitram Profile Pic" />
                 </div>
 
                 <div className="nine columns main-col">
@@ -33,10 +33,10 @@ function About() {
                             <h2>Contact Details</h2>
 
                             <p className="address">
-                                <span></span><br />
-                                <span> </span><br />
-                                <span></span><br />
-                                <span></span>
+                                <span>Zechariah Naitram</span><br/>
+                                <span>Orlando, FL</span><br/>
+                                <span>(689) 500-7290</span><br/>
+                                <span>zechariahnaitram20@gmail.com</span>
                             </p>
 
                         </div>
