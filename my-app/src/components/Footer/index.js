@@ -9,14 +9,14 @@ function Footer() {
 
                 <div>
                     <SocialIcon
-                        url=""
+                        url="https://www.linkedin.com/in/zechariah-naitram-5179aa250/"
                         target="_blank"
                     />
                 </div>
 
                 <div>
                     <SocialIcon
-                        url=""
+                        url="https://github.com/Zechariahmn"
                         target="_blank"
                     />
                 </div>
@@ -24,7 +24,7 @@ function Footer() {
             </div>
 
         </footer>
-        
+
     );
 }
 

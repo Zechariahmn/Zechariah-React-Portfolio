@@ -120,15 +120,15 @@ function Contact() {
                 <ul>
 
                     <li>
-                    <a className="contacts" href="tel:\"></a>
+                    <a className="contacts" href="tel:+16895007290"></a>
                     </li>
 
                     <li>
-                    <a className="contacts" href="mailto:"></a>
+                    <a className="contacts" href="mailto:zechariahnaitram20@gmail.com"></a>
                     </li>
 
                     <li>
-                    <a className="contacts" href="" target="_blank" rel="noreferrer">GitHub</a> 
+                    <a className="contacts" href="https://github.com/Zechariahmn" target="_blank" rel="noreferrer">GitHub</a> 
                     </li>
 
                 </ul>
