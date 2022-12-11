@@ -147,10 +147,11 @@ textarea {
 
 /*-----About page CSS----*/
 #about {
-  background: #2B2B2B;
+  background: rgb(53 177 171);;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
+  padding-left: 10px;
 }
 
 #about a, #about a:visited  { color: #fff; }
@@ -256,6 +257,7 @@ textarea {
 .my-5 {
   margin-top: var(--spacing-five);
   margin-bottom: var(--spacing-five);
+  background-color: brown;
 }
 
 .px-1 {

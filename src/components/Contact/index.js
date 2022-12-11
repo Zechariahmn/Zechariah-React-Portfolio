@@ -120,11 +120,11 @@ function Contact() {
                 <ul>
 
                     <li>
-                    <a className="contacts" href="tel:+16895007290"></a>
+                    <a className="contacts" href="tel:+16895007290">+16895007290</a>
                     </li>
 
                     <li>
-                    <a className="contacts" href="mailto:zechariahnaitram20@gmail.com"></a>
+                    <a className="contacts" href="mailto:zechariahnaitram20@gmail.com">zechariahnaitram20@gmail.com</a>
                     </li>
 
                     <li>
