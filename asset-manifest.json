@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Zechariahmn/Zechariah-React-Portfolio/static/css/main.21945e93.css",
+    "main.js": "/Zechariahmn/Zechariah-React-Portfolio/static/js/main.33968265.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Zechariahmn/Zechariah-React-Portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/higher-lower.PNG": "/Zechariahmn/Zechariah-React-Portfolio/static/media/higher-lower.97a40fe63fc863666519.PNG",
+    "static/media/background.jpg": "/Zechariahmn/Zechariah-React-Portfolio/static/media/background.13f38b1891de13667165.jpg",
+    "static/media/note-taker.PNG": "/Zechariahmn/Zechariah-React-Portfolio/static/media/note-taker.18343accd4224f111b4c.PNG",
+    "static/media/profile-pic.jpg": "/Zechariahmn/Zechariah-React-Portfolio/static/media/profile-pic.e6a1cf9880f7cdc1caee.jpg",
+    "static/media/tech-blog.PNG": "/Zechariahmn/Zechariah-React-Portfolio/static/media/tech-blog.507c6619a9aee61f955e.PNG",
+    "index.html": "/Zechariahmn/Zechariah-React-Portfolio/index.html",
+    "main.21945e93.css.map": "/Zechariahmn/Zechariah-React-Portfolio/static/css/main.21945e93.css.map",
+    "main.33968265.js.map": "/Zechariahmn/Zechariah-React-Portfolio/static/js/main.33968265.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Zechariahmn/Zechariah-React-Portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21945e93.css",
+    "static/js/main.33968265.js"
+  ]
+}
