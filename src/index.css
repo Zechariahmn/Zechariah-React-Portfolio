@@ -163,7 +163,7 @@ textarea {
 }
 #about p {
   line-height: 30px;
-  color: #7A7A7A;
+  color: chartreuse;
 }
 #about .profilepic {
   position: relative;
@@ -307,7 +307,7 @@ textarea {
 }
 
 
-/*portfolio style*/
+/*---------------portfolio style/project style--------------------*/
 a {
   color: var(--secondary);
   text-decoration: none;
