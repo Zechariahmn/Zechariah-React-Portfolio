@@ -4,6 +4,7 @@ import { Card, Button } from 'react-bootstrap';
 import higherlowerImg from '../../assets/images/higher-lower.PNG';
 import notetakerImg from '../../assets/images/note-taker.PNG';
 import techblogImg from '../../assets/images/tech-blog.PNG';
+import codematesImg from '../../assets/images/codemates.PNG';
 
 
 function Project() {
@@ -31,6 +32,14 @@ function Project() {
             repoLink: 'https://github.com/Zechariahmn/Tech-Blog',
             languages: 'CSS, JAVASCRIPT, HANDLEBARS',
             picture: techblogImg
+        },
+
+        {
+            title: 'Codemates',
+            appLink: 'https://codemates-app.herokuapp.com/',
+            repoLink: 'https://github.com/Tab-Y/codemates',
+            languages: 'HTML5, CSS, JavaScript,  Bootstrap CSS,  Node.js, NPM, React, GraphQL, Mongoose, MongoDB, Express',
+            picture: codematesImg
         },
 
     ];
