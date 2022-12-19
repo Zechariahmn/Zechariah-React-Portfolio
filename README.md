@@ -18,7 +18,16 @@ To install necessary dependencies, run the following command:
 ```npm install```
 
 ## Usage
+![Screenshot 2022-12-11 144647](https://user-images.githubusercontent.com/110499007/206926724-363d2262-7ce8-4e19-aebf-0a2a8243f921.png)
+![Screenshot 2022-12-11 144709](https://user-images.githubusercontent.com/110499007/206926728-dbcc6875-ccc4-4ea6-8535-518e84cab540.png)
+![Screenshot 2022-12-11 144733](https://user-images.githubusercontent.com/110499007/206926732-f82eb0dc-8a9d-4ee1-bf52-32d7fcf73510.png)
+![Screenshot 2022-12-11 144758](https://user-images.githubusercontent.com/110499007/206926738-59c752aa-a9d4-4190-9f87-5af433b0a7fd.png)
+
+
 The user must clone down the repo to get the necessary folders, files and dependencies. The user can then run the ```npm install``` command to install the necessary dependencies. the user can then run the ```npm start``` command to start the application. Once the application is active on the users localhost server they can then navigate through the application using the navbar to switch between pages.
+
+## URL
+https://zechariahmn.github.io/
 
 ## Available Scripts
 
